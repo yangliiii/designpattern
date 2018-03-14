@@ -1,4 +1,4 @@
-package com.yangli.sjms;
+package com.yangli.pattern;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,6 @@
-package com.yangli.sjms;
+package com.yangli.pattern;
+
+import org.junit.Test;
 
 /**
  * Hello world!
@@ -10,4 +12,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    @Test
+    public void test(){};
 }
