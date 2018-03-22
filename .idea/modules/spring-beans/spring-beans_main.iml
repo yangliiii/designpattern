@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-beans:main" external.linked.project.path="$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans" external.root.project.path="$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE" external.system.id="GRADLE" external.system.module.group="org.springframework" external.system.module.type="sourceSet" external.system.module.version="5.0.4.RELEASE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="2" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-beans\build\classes\kotlin\main" />
+          <option name="classpath" value="D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-core\build\libs\spring-core-5.0.4.RELEASE.jar;D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-core\build\libs\spring-cglib-repack-3.2.6.jar;D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-core\build\libs\spring-objenesis-repack-2.6.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar;D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-jcl\build\libs\spring-jcl-5.0.4.RELEASE.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\org.yaml\snakeyaml\1.19\2d998d3d674b172a588e54ab619854d073f555b5\snakeyaml-1.19.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\org.codehaus.groovy\groovy-all\2.4.13\7e410735a50e495323dd4855ddd13ea7dad23ac1\groovy-all-2.4.13.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-reflect\1.2.21\3159ff5936aa570a90050d385cb717fbb6c1723a\kotlin-reflect-1.2.21.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.21\d64187eb2d9d1521be3421aa8c6774a8625cdde8\kotlin-stdlib-1.2.21.jar;C:\Users\lies\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar;D:\IdeaProjects\spring-framework-5.0.4.RELEASE\spring-beans\build\classes\groovy\main" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="spring-beans" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="coroutinesWarn" value="true" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-beans/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.21" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-core/build/libs/spring-cglib-repack-3.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="spring-core_main" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../spring-framework-5.0.4.RELEASE/spring-core/build/libs/spring-objenesis-repack-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.21" level="project" />
+    <orderEntry type="module" module-name="spring-jcl_main" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.19" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-all:2.4.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>
